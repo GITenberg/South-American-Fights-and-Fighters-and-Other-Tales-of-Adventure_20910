@@ -1,0 +1,43 @@
+_repo: South-American-Fights-and-Fighters-and-Other-Tales-of-Adventure_20910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_bookshelf:
+- South America
+- Children's Fiction
+gutenberg_issued: '2007-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Panama -- History'
+- !lcsh 'Mexico -- History -- Conquest, 1519-1540'
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+- !lcsh 'Peru -- History -- Conquest, 1522-1548'
+- !lcc 'F1401'
+- !lcsh 'Essex (Whaleship)'
+- !lcsh 'Dueling'
+- !lcsh 'Jones, John Paul, 1747-1792'
+- !lcsh 'Washita Campaign, 1868-1869'
+- !lcsh 'Tonquin (Ship)'
+tableOfContents: Panama and the knights-errant of colonization --  Panama, Balboa
+  and a forgotten romance --  Peru and the Pizarros --  The greatest adventure in
+  history --  The yarn of the "Essex," whaler --  Some famous American duels --  The
+  cruise of the "Tonquin" --  John Paul Jones --  In the caverns of the Pitt --  Being
+  a boy out West.
+title: South American Fights and Fighters, and Other Tales of Adventure
+url: http://www.gutenberg.org/ebooks/20910
